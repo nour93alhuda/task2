@@ -1,0 +1,27 @@
+.menu {
+    display: flex;
+    flex-direction: column;
+    width: 200px;
+    background-color: #222;
+    color: #fff;
+    padding: 20px;
+    border-radius: 10px;
+  }
+  
+  .menu-item {
+    margin-bottom: 20px;
+  }
+  
+  .menu-item h3 {
+    font-size: 1.2rem;
+    margin-bottom: 10px;
+  }
+  
+  .menu-item ul {
+    list-style: none;
+    padding: 0;
+  }
+  
+  .menu-item li {
+    padding: 5px 0;
+  }
