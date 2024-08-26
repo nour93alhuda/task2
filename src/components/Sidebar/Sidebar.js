@@ -13,7 +13,7 @@ const Sidebar = () => {
           <li>Admins</li>
           <li>Editors</li>
           <li>Instructors</li>
-          <li >   <a href="studentinfo">Students</a>
+          <li > Students
           </li>
         </ul>
       </div>
